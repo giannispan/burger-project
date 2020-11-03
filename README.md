@@ -1,4 +1,5 @@
 React project for the udemy course : https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+
 You can see the app here: https://react-my-burger-b8750.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
